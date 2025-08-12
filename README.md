@@ -1,5 +1,7 @@
 # Minimal Database
 
+> [!WARNING] work in progress
+
 ## Simple Generator Language
 ```mysql
 REG INT 1028 at 0
