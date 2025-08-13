@@ -1,6 +1,6 @@
 # Minimal Database
 
-> [!WARNING] work in progress
+>[!WARNING] work in progress
 
 ## Simple Generator Language
 ```mysql
